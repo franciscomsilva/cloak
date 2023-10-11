@@ -1,0 +1,32 @@
+## TORCLOAK - Client Configuration File
+
+## Tor opens a socks proxy on port 9050 by default -- even if you don't
+## configure one below. Set "SocksPort 0" if you plan to run Tor only
+## as a relay, and not make any local application connections yourself.
+SocksPort 0.0.0.0:9051
+
+## Uncomment this to start the process in the background... or use
+## --runasdaemon 1 on the command line. This is ignored on Windows;
+## see the FAQ entry if you want Tor to run as an NT service.
+RunAsDaemon 0
+
+## The directory for keeping all the keys/etc. By default, we store
+## things in $HOME/.tor on Unix, and in Application Data\tor on Windows.
+DataDirectory ~/.tor
+
+
+## Logs go to stdout at level "notice" unless redirected by something
+## else, like one of the below lines. You can have as many Log lines as
+## you want.
+##
+## We advise using "notice" in most cases, since anything more verbose
+## may provide sensitive information to an attacker who obtains the logs.
+##
+Log notice stdout
+SafeLogging 0
+#Log debug file /tmp/tor_client_debug.log
+
+UseBridges 1
+Bridge cloak 0.0.3.0:1
+ClientTransportPlugin cloak socks5 127.0.0.1:1080
+

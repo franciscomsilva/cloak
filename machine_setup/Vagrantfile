@@ -1,0 +1,60 @@
+# -*- mode: ruby -*-
+# vi: set ft=ruby :
+VAGRANTFILE_API_VERSION = "2"
+
+Vagrant.configure(VAGRANTFILE_API_VERSION) do |config|
+
+    # Always use Vagrant's default insecure key
+    config.ssh.insert_key = false
+	# Always use X11 Forwarding with this machine
+    config.ssh.forward_x11 = true
+	# To avoid/allow install and uninstall of VBoxGuessAdditions.
+    config.vbguest.auto_update = false
+	# Disable/enable automatic box update checking.
+    config.vm.box_check_update = false
+
+	config.vm.define "cloakclient" do |cloakclient_config|
+		cloakclient_config.vm.box = "cloak"
+		cloakclient_config.vm.hostname = "cloakclient"
+
+		#Networking
+                cloakclient_config.vm.network "private_network", ip: "192.168.56.101"
+		#Storage
+		config.disksize.size = '18GB'
+
+		#VM Settings
+		cloakclient_config.vm.provider "virtualbox" do |vb|
+				vb.name = "cloakclient"
+				vb.gui = false
+				vb.customize ["modifyvm", :id, "--vram", "128"]
+				vb.customize ["modifyvm", :id, "--nictype1", "virtio"]
+				vb.customize ["modifyvm", :id, "--natdnshostresolver1", "on"]
+				vb.customize ["modifyvm", :id, "--natdnsproxy1", "on"]
+				vb.memory = "8192"
+				vb.cpus = "8"
+			end # of vb
+		end # of cloakclient_config end
+
+        config.vm.define "cloakbridge" do |cloakbridge_config|
+                cloakbridge_config.vm.box = "cloak"
+                cloakbridge_config.vm.hostname = "cloakbridge"
+
+                #Networking
+                cloakbridge_config.vm.network "private_network", ip: "192.168.56.102"
+                #Storage
+                config.disksize.size = '18GB'
+
+                #VM Settings
+                cloakbridge_config.vm.provider "virtualbox" do |vb|
+                                vb.name = "cloakbridge"
+                                vb.gui = false
+                                vb.customize ["modifyvm", :id, "--vram", "128"]
+                                vb.customize ["modifyvm", :id, "--nictype1", "virtio"]
+                                vb.customize ["modifyvm", :id, "--natdnshostresolver1", "on"]
+                                vb.customize ["modifyvm", :id, "--natdnsproxy1", "on"]
+                                vb.memory = "8192"
+                                vb.cpus = "8"
+                        end # of vb
+                end # of cloakbridge_config end
+
+end # of config

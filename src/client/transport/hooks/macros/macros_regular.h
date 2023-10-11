@@ -1,0 +1,5 @@
+#ifndef MACROS_REGULAR_H_
+#define MACROS_REGULAR_H_
+
+
+#endif //MACROS_REGULAR_H_

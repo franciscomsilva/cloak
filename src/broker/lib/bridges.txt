@@ -1,0 +1,450 @@
+BRIDGE_1:
+ID: bc074de3-bf87-46ba-a1d8-607a4d4ff9e4
+cNAME: kxIAiwkiDiaLloEKl47PKQDtP
+LOCATION: Colombia
+PUB_KEY:
+-----BEGIN RSA PUBLIC KEY-----
+MIIBCgKCAQEApOdXW10Wmsj8jsfb+TPheMViqGlbFaSOxzxtTdRZ1BCa/Y/msP82
+/XT+4+DFUgEE+ZmpVC68HMFrjKf1vNtGlI8/qX2zZK4OCM6/ffHB+3gyqsFmI6lO
+TaEltYSK0f8BbUyC2wA0BAgWOyI2Zw7vZC0shxAj1nL5JgqcU6kkNruowsTwa4kx
+7hHpUFgIiSmlx+jSPFNMY2hB9XBar/Aex++gCbg/hE7IAaH0/L3tJdy9SQZWaWMz
+6uF5tCaJBoEmJR/ohpFMdaVnE+BOAhO2LeAU/OjHSQY/24FYbo6JVmZG3Z4ckIlS
+wVRApFWQzIAFb4rNk/Iuu3tE+WMv9j04owIDAQAB
+-----END RSA PUBLIC KEY-----
+PRIV_KEY:
+-----BEGIN PRIVATE KEY-----
+MIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCk51dbXRaayPyO
+x9v5M+F4xWKoaVsVpI7HPG1N1FnUEJr9j+aw/zb9dP7j4MVSAQT5malULrwcwWuM
+p/W820aUjz+pfbNkrg4Izr998cH7eDKqwWYjqU5NoSW1hIrR/wFtTILbADQECBY7
+IjZnDu9kLSyHECPWcvkmCpxTqSQ2u6jCxPBriTHuEelQWAiJKaXH6NI8U0xjaEH1
+cFqv8B7H76AJuD+ETsgBofT8ve0l3L1JBlZpYzPq4Xm0JokGgSYlH+iGkUx1pWcT
+4E4CE7Yt4BT86MdJBj/bgVhujolWZkbdnhyQiVLBVECkVZDMgAVvis2T8i67e0T5
+Yy/2PTijAgMBAAECggEAKlW+BpWibQB2Xk2O+q5ID1JVXrkVijvh7+JiiV2f5iKR
+N9GOvxf2TSGRIn2dCs16Mn4xi4wn/RXm/4hLPT3qI8+W33OG760Dq10wqiu7ykx0
+bYQTLcqUcLeTT8OERB88hYvj+EdYE0TkODAzWUfrS4ORb+dD3BVOQ2br9UpyIp6m
+oHXk1KprgowEpWef6ET9c1JkK7Dw9aGMIh1aQh04yVtLbg3VDFVjrNmypkC3yIGI
+ACvYrtlXUyu+dYVOdUNOk0Wtg5OioYlya5EKUB/RR+TO9mfUz3Q5SiQNwIHmgT3q
+v0werVdFy+ui69TQz1NEV6d/WzN/qMisF6tgctBEeQKBgQDm5GdkIocHAT+oHlZn
+wzDtGFvgvos7ejXaEuDcShXwz7LVJ29QTbr3wAad5oo4aNUa5lBU6vIP6uVsiry7
+b5R503FEFOOWkW37fLUOqVH2SQPWOA49wYJyR5A0BDhuVJMtIRKsEe3MCB9Vgtba
+11B+QCGf0dWuhpTbtVjL9djNlwKBgQC21fF/pdlu6IHeVYfDQM63QDDpq1mfVYXx
+NajxipM3WUutLZUKYq4qoeZUXSlIaorEwwbwZXkYfUCaR/RLYdtIyTYAlcCLSRvl
+a6FpmPbMuZn4B3CLCAYoYNAUqKoEvqg9H9e+zS5OwhIboW41HHSgYhiRLjwLaJT2
++jFe7pBm1QKBgQCyYXOfYS2As+5CLG4E7EA4bMFO+OcIpHpGaJ9gkbwxt8Up+LV/
+DQ6NqcVy6FGREyzRA268rGcm9QsauHTnOmUzWbAAMUNDaEfYK5iWIyo3ZGGaduRJ
+wd7N+4vlI/2U/7JVA2AxoAhfwUa0AcmMeRyu7U0M9Ehp9X+73ncj3GQLMQKBgBjn
+lYi8r5xy4VXGssJ+7ml5ve/mXkPc42zS0Vttc9YjPLKvNdD/VhgKi5RMSFZL5PEe
+W7CdMdyLGySozncCMlt8xPVZcKvIXptmiMsYge2rDnUBlmvpwOT5Iv7dZqNU0Rfa
+YYnk6vzhZJQM7jUf1icOlagY8yberQPjWpxCxLqtAoGBAIH9g255CmKkPTvFWJOA
+dSWcAvriUfEVdCw3UfKMy6jmqBT8AcsSNEdJpLYYM5g/UprDqyZ7TkPsCADnc2O3
+BzGmKpBK4kD6tfB1d6AbMXzmCvePZ7vSJkq/pfirRKTC7WNNmZGb0nrx+8BN0/7K
+i3KvZWBiK+vP4YpKjfrwyJW6
+-----END PRIVATE KEY-----
+SIGNED cNAME:
+b'\x96\xfa9\nc]\xce(`+\x07_\x95\x0b.\xb5\xec\\j\xe1\xab\xa1\xa6\x1c*\xcb\x00\x07\xe7\x8dJh\xea\xc1\x9e-\xc3\x04\xbb\x1e\xe4\xbd\xbb\xc3\xfd\xaa\xf7\xb2\xa8-\x16#\xe7\x9e\x99C\x98\xe3\xb4\xc6d\x12\xad8<\xef\xb4DL\xbb\x86\xa0\xb3f\xe1\xe9\xfd\xadvj@q\xcb\xa1\x9db\x81P\x8c\xe3\xacQ\xb7\xbby\xbd\x18"\x0en,\xef\xd4m\x88|#\xa2=\xe1"\xd8l\x85\t\t+\x9aF\xf3~\x9c\xb0H\x93\x97\xa9 \xff?\x8doof8\xe0\xd6=\x07\x85\xb6\x01\xe2\xdc6\x8f\x14\xb6U8\x1a\xf3\x83\xd2q\xadk\x9dMJc8\xba\xfe\xb2z\xed\n\xd9\xfd\xba\x7fM\xf1\x83\xfa\xa1\x08~.B\xc1\xeb\xee\xd1\x84\x87\xc2_S\xbd1\xadYQ\xca1w8e>}\xdb\xdb\xafY\xb0C3_\x13\xd5O\xcc\xdd\'\xc1Eh\xf9\x02\xf44\xf8\xcf\xb8\xc7i\n\xf4\xff\xd1\xe0V\xb6\xfc\xdc\xce02\x83\xb7\x1a\xa0a\x94"\xb2\x96q\x7f\xa9\x1dkQ\x90'
+
+BRIDGE_2:
+ID: 1445ee2e-ff2f-459e-b9e9-8afb6b9a21ad
+cNAME: ZsP3QU1uJTY9F1XwpvruZa0jB
+LOCATION: Azerbaijan
+PUB_KEY:
+-----BEGIN RSA PUBLIC KEY-----
+MIIBCgKCAQEAp+vEs/bhbWhf0TG8VkoJfVr7eDIUagxYf6YcP29HDeWdTu5gthvU
+fN/XpkYndKZBNN79rcoa+jEsUrl3TXw4dBNe2dACO8usKhheB/sghY2O4mL372JN
+zGurF8OqvxqRmhPSdACGLK1+jNA14I2BOu3WeYXwPEkdXUQ2QDA2aoM7RD5ynqKF
+8yaCeGot078dRB+LHeOzSKm5FS5HlmLGFLfJrkmkmF6CwXe1ykLOTt43mr7nO578
+KFBMTbOu6r/fTAC9IpOEBEekojZXJxm2Z/YXse1Fiwx4eRpYs/pS6jlNCPXumu9q
+4J6Wto1RkQo3PuH+zNTEbRpXiRk1Q5YJCQIDAQAB
+-----END RSA PUBLIC KEY-----
+PRIV_KEY:
+-----BEGIN PRIVATE KEY-----
+MIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCn68Sz9uFtaF/R
+MbxWSgl9Wvt4MhRqDFh/phw/b0cN5Z1O7mC2G9R839emRid0pkE03v2tyhr6MSxS
+uXdNfDh0E17Z0AI7y6wqGF4H+yCFjY7iYvfvYk3Ma6sXw6q/GpGaE9J0AIYsrX6M
+0DXgjYE67dZ5hfA8SR1dRDZAMDZqgztEPnKeooXzJoJ4ai3Tvx1EH4sd47NIqbkV
+LkeWYsYUt8muSaSYXoLBd7XKQs5O3jeavuc7nvwoUExNs67qv99MAL0ik4QER6Si
+NlcnGbZn9hex7UWLDHh5Gliz+lLqOU0I9e6a72rgnpa2jVGRCjc+4f7M1MRtGleJ
+GTVDlgkJAgMBAAECggEACZ5ysXznR6NCltsGnvpFfiPpswZKX1NG+APxywvyqegA
+6Xoz+caRFtijM6QB41eZNWA/L5b70eBiebgkToDawoJwDOHSmO6HNY+ZBlPDNodH
++62f5ntu+bJitf0oQSNyWv0+8VRs2y8SiFoudechM5kXb7VlkCx/hT3Qrj9cxJ/Z
+L5CdPdU8dMZoi5Wlc5zuCXOrJrvy+vTe1uAGSY1+aNhyCLMO1gcu6sOgr6dnrWcE
+URkZgUT3fCQKwisuJk6con6bKECVwUAVwzsrOuiFghsvryrPTZuZj555kVyexHC+
+WhgdM0XdawKTDyM+3KNKIyIHJkqVc2O85uI8fvLFsQKBgQC6Np5tnOercMcboqol
+i6+v8GEyS83BSENtJ9b4F1oADbJu9ebKGjFMHyjiaN1Tfw6rLoha5FR+r43lFurL
+ixKUde6kmDFs3cWM9iD+YhO+wgRPDicrX38WQc5TDLTyNCBR5YhYrqDVIMVQpmY5
+Ttgh+YOg2LFl7zG/jGxbYAtauQKBgQDm2ivKo2fCZOxQoWrBl3gQwam6n2U6pABl
+6I9T0jV7+UXsTLAuLwn0G61vveRlWmFGtLk7AXtzkW0Gi+aOL6ki+I8qgpwe/JTL
+C7xBytP4tqnqXtl6rOsgjLAA/lA4T+lhXmYs332zbglK/hYzR2kWIx3bAQB/hiNs
+WDaL+/y40QKBgBOgxjpPm6vai2JCVyT2AGLPN6+RhfKlp1XOKT6lV3tB9ljz2ovb
+Du8zKaAT5aBzeBxbH0xVXQKthotrSvyBgEfd1nXLBQqwpa4iE4A83k/xK3sZxs8v
+lbnG3fSrFjehfvai9yhB3/oXJjVGFOhdgzKxlkpSDQDtoZTLPHC1Qv0hAoGBAIiM
+ciy5fQ1aPwHuiMQcATQAKZIu6GTIT0f4SJcvFt3O85IzRl77CesvV+ZpryhYToPR
+MGN7m/cfBRtDM0vVWzlJRv3BJfGaO7TiqydLfxh1i4oLMp7Cm420SgM8alz0v7oN
+aWiPhb3Vj3+hTaZlTf5/JRC+xfmocVmL0C/7DGCRAoGAaNfF1N+viYW+/eRQCllj
+o/QB1rrKm7Pr3nntQDpNeHYuh8Lr52lVATCt8jUtEwDWhNIc1FP1wt6m86kW0DEi
+jnF8T1axY0lgXvm8UDmgpK8UHiETmDBCr6NesMBuKLfBpY55d8ZV6apzFXH3LnNL
+EvH+iyIs1UASivSNraHzNMc=
+-----END PRIVATE KEY-----
+SIGNED cNAME:
+b'\x95\xe7h\x06y^e\x9a\x81%\x9a\xe2\x89\r\xc8\x02>\xee\x98\xf9s-\xf0\xb2`\xec\xbdzTp\xe6e\xb6"\xc8%f^\xdf\x13\xd5!d\x87\x0e\x00\x97\xa1\xa7\xe5\xa8\x03\xab\x10\xb9?\x8eU\n\xc7z\xf8\xa4K\xa0}\xb3:z\xe7v\xc5~\x9e7\xf8\x13z-\xa6\xa6\x96\xbb\x8ds\xda\x1e\n\xf4\xc0&\x85\xb8\xdc\xe9\x1eH\x85\x1d7\x9a\xbc\xd0\x87\xa1\x15\x8ew\x88\xaa\x99\xb4\xdcce\xed\xbf\xa7\x01\xe0\xbe 2\\\x90\'\xc3fv\xd2n\x92\xc8\x80\xbbo\xaf\x9b$\xfa-\xf5\x06\xd8\xa2\xe7K\xcfNA\x9d\xa2\xa4\xe2wA\x90\'\xb8L\x93\xea5\n\x9a<\xa2\xa1h0\xdd\xa1\x8b\xb4\x97\x07ga\x03\xbc\xaf\x15\x8d\xba\x05\x0b\xdf\x19\xe9+\xb6Z\x84\xd65|\xdb\xf4\t2|\x86{uP\xa6\xcb\xe2\xc4\xa8\xa0\xf4U\xbd2\x10\xd3\xb6\xe0\xbejy:C\x1b\xe1\x05\x96\xd4\x89\xf5\x9f\xd4\x84^N\xa0\xa7\xc0\x04\x81BdR\x03K>\x06\x8f\xc4\xae_\x9e\xf3\xf5\xc6'
+
+BRIDGE_3:
+ID: f4ed0f93-58ab-4563-9a1f-a77455f3818e
+cNAME: NnVR1FP9drnEDAfRmznn6Uq2S
+LOCATION: Poland
+PUB_KEY:
+-----BEGIN RSA PUBLIC KEY-----
+MIIBCgKCAQEAq6UEE2P/EMszGvWEB01liW4rtC8b5HSUces/l3hRoo9XfWu0U+31
+Yfyvh/Ul6xLxc448UBwE1rnwpXC24T7UCVXbfL12wpK7IsmHmDFQjmFb4RCqHVZI
+iPgrz3Lg+c3DKBsk4fKtR0kriwNIOn812R8IAFpI6fEoezVFzR7kpCd4kT7fdgQh
+uP6QhbcJ43JI1kYlpcmhBHdsp2qB1HpIueSr8nQ6VDSRNMACdqbFTLitefp3rKN4
+Fo56wryIia8rsU+VgnssK0rEDxb8sSjvsWhSWVuqAKxtQ/aTB1llGlj/tFOJJB2q
+iENzw+RuuR7XORxjT9rk1tqhged3rdDpLQIDAQAB
+-----END RSA PUBLIC KEY-----
+PRIV_KEY:
+-----BEGIN PRIVATE KEY-----
+MIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCrpQQTY/8QyzMa
+9YQHTWWJbiu0LxvkdJRx6z+XeFGij1d9a7RT7fVh/K+H9SXrEvFzjjxQHATWufCl
+cLbhPtQJVdt8vXbCkrsiyYeYMVCOYVvhEKodVkiI+CvPcuD5zcMoGyTh8q1HSSuL
+A0g6fzXZHwgAWkjp8Sh7NUXNHuSkJ3iRPt92BCG4/pCFtwnjckjWRiWlyaEEd2yn
+aoHUeki55KvydDpUNJE0wAJ2psVMuK15+neso3gWjnrCvIiJryuxT5WCeywrSsQP
+FvyxKO+xaFJZW6oArG1D9pMHWWUaWP+0U4kkHaqIQ3PD5G65Htc5HGNP2uTW2qGB
+53et0OktAgMBAAECggEARtSzYF8ZADCiV8MuJydIudRFY7c2/uke4v3Nwa9snLUj
+SQX7pdDiPHveYbAH5EBudB2jhPlzA7s6c8MWLNBVBr8v8oNq8TNE1z+r3WGoWQET
+Pca3NKEJEMC8r4A8F8nR+YhuCXGwEOVAez6w/TbGnWEhV6fqQ+P5LRLYSaOwfY6A
+rwYDcm+D6f6olEx4AZaTSgeY1BCvCvjpIuCQ7YpzDweteoM0BVIQmAlFeaO+dgYP
+uQGvGHxguqllCqu/kXraq/Y6cvHI7h03hH6497zOH+UHXCLVV6XwYaG0GBwlPhhF
+aUotQODz1cXfPAmhIKgMqLXt3oyqHGafgmXPzPBIrwKBgQDBUjZHNRsyBXrwV5ez
+SkpcFdlNr68WN2hsi8ZhM+N5WHgngt6gJmsj5eiaXhLPRjVnv5/Cc7ytt53iTcNB
+e+GZE0DzfsHdj5u4abzASNDGgODz8RdGmjplykRy/Qm+9kD1kVXCSknhx/dFLKSR
+HsBRzgkDPRR9+JApdabGLYfyCwKBgQDjS6Kx35ncG1Sc2nLEhS/ZUmskHheY51iF
+WNOf1WGogR910tBApnxGsOK0PFQabvRQ+j2NUTcDBhZQrTGPNc1EtJsX2okc2z7q
+iXftEdezY7gEKarduSL+WX8usMQwh6azJ3VYOP2VX3qFqxYl306729soG0UzVKoL
++cgf48yMpwKBgQDBBrJ1hRwjZP9szTkGZu46ZgJ0pC+BUk+s2h95XNMLjX9jjDN3
+2wRtcpk+0SGc3nBiqB3/jYpeNhGqLZUBZI1MR8I5nl46OLL2fnVd1RbIrVRvnlFs
+SIB4tG6GFgvOJZmU2Mm1VnHQw9YstreWwwqqY7vyBOHaKf7ftr6P8FRmIwKBgHX+
+v9kjQRZ4wbYj2UyX770cAi7fyFRCVTv0Xvgsp+P4FELwS9gkFYQFM8tpPifyzbZ0
+EhwYuzxAnrkHECFORt+R+qmpc2CdmM3cy3swtg+UhuTyVJeCEt6Dy3iLn22qHioH
+I+3GuC4hQNO/e2HxyUfQ3La3YXdCTnylEPUtJvUlAoGADrynXR4lLCCH1hvk/Xk5
+x++HOcpbhL0TcFlMQDK1sb0CLnjk8G3wa8pqFFTrz4E5ztT0Q6+VJBIQNeovlCW0
+vy2bEunJleK2gOnQdjas6H5oWYeYxQGGBj36O+NvsnjQ6VhP+DLQ91XlLQhB44Re
+cgRC/rP3kBi3Z/+NDHYAhCE=
+-----END PRIVATE KEY-----
+SIGNED cNAME:
+b'BR\x8c\xa4\xf9k\x8b\x94\xfdgYmO!\xbf8\xf6\xc8\xd9\xa9\x8a\xcc\xa8\x87\xc1\xea/6"\x8f\x06oU\x88_\xf7i\x03\x08\xd6\x04\xae2k\x8d\x7f1\x84K\xc9Y\x1b\xd5F\xf0@\xce\x80\xac\xb6gQW\xdd\x8d\x9d\xcc$\xa6\xaaY\x16\x12\x0c\xe6$\xbb\xb0\xd9!\x06\x007\xe7h\xd8y\xa1\xdc\x1d\x81\xac\x84\x94\xaa\x9e\xb8Z(\xe1\xd2!\x9c\xd4h\xc2\\?\xb65\x81\x9d\xbd\x19\xf3ob\x97\xb2\xd3\xd8BR)RW\x0f\xa9\xd0\xc7\xac\xd1T"\xbe\x7f*?w?\xe6W"\x08ZC\x8e\xc3\xd5\xb5\xa0\xbd\r+\xa9yX3\x8d\x87.\xaa\xa9\x9cR\xd25s\xad\x14\xc7\x9e\x1c\x1a\xc7\xf6U4\xd4\x8c\xfd\x14thf\'\xa9\xda3\x81?\xff\x7fI\xd4\xc2[\x1e\xf8\xdfi\xb60\xd8\x9d\xc3\xdc\xe0\xa0H\xed\xd3\n{,\x92\x00\xc2\xa3\xfb\xad\xc9(G\xb3-V\xd1P\x98\x10V\xfe\x9a\xa0j\x838\xe9\t\xf0\x95\xb7\xd1E\xcf\x9b@\xcc\x10\x91\x99\x81\x17p\x8e'
+
+BRIDGE_4:
+ID: 1bb21565-2c4c-433a-88ea-f445f9e70c94
+cNAME: idOxGG9Py7qMLStsoNqJP4WuN
+LOCATION: Seychelles
+PUB_KEY:
+-----BEGIN RSA PUBLIC KEY-----
+MIIBCgKCAQEA6e1s/pYRbSZ1UkV44YXv26ksJLktTL3bjMm+Q7/0NEy7NOjTrblS
+eghLMEqrmBO6/vTe1DWuZy1xc7RiDQXZHsXwoNxV5fYU994LFNAJ0NhyhDbkhAZ/
+grFYrPQZ7LRBofKvbJ8FMgRc0O8GBl1G1eltBKUPa7UTWkzRWOfU4B/dqM0OgD9n
+2sKV/TID9Xf6X2lxxB+kA1aB8FcaxXgCgYlK1AIOyQ6yLiZkUoQHiL0bgXx3hON1
+DUyDaDIUaAuhWwNlZyqpvkC0NmZOveOJZuKYYt93OfAMWnnqZSEmBl+Typnn04eV
+qlzgqaFqptCP7itMv9eQ2ExHi9BnXRFDLwIDAQAB
+-----END RSA PUBLIC KEY-----
+PRIV_KEY:
+-----BEGIN PRIVATE KEY-----
+MIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQDp7Wz+lhFtJnVS
+RXjhhe/bqSwkuS1MvduMyb5Dv/Q0TLs06NOtuVJ6CEswSquYE7r+9N7UNa5nLXFz
+tGINBdkexfCg3FXl9hT33gsU0AnQ2HKENuSEBn+CsVis9BnstEGh8q9snwUyBFzQ
+7wYGXUbV6W0EpQ9rtRNaTNFY59TgH92ozQ6AP2fawpX9MgP1d/pfaXHEH6QDVoHw
+VxrFeAKBiUrUAg7JDrIuJmRShAeIvRuBfHeE43UNTINoMhRoC6FbA2VnKqm+QLQ2
+Zk6944lm4phi33c58AxaeeplISYGX5PKmefTh5WqXOCpoWqm0I/uK0y/15DYTEeL
+0GddEUMvAgMBAAECggEAAmjxmlkrGnVEIydXvKG3xrW3oInkghRjT9AqQiIW9CJQ
+PBYj9s0LIPph5UBNA+w8HRv3tGGjMilBMHXMxsvnII6Ie+0ZLh0lZSen9JHExXPd
+ZihMnWGVwbUYWpvJ1+ru0X93DYbr3kfg5D7Pez74bQQScp2itYja3K91lAAQwjL8
+y8AL+W2rLTcrYuMoStCt0qyJcS1Cx9/vWSN0KA+kDK1iXSRK4MjFpfbz4kVGJtUg
+01fGHrQ2jlk0sxG1NAn6WVEUYZpg+9r1vI4L9TswypVGtZpr+yRo1nYHLJaM1z+N
++SxoEyQuVZzC8ERkcfBW/MiYnUhhjqJ31aTs+Y+3OQKBgQDqTwiVFygU+zI4nk1/
+Q4mPqeVGA5awpakGEMLW7YcFK0JJL1BJgXa15/7tzZHU+UOF4DNau7hPFKADmf1/
+mBaizjfLlLBkAkn9NXomnpJb5lWqQ1X/ehyWQgFCpjBbUnIlLuprKcS5+0eUpMcz
+nPchJHhGhWKbzzTNKvrQQY34lwKBgQD/lVsrsOOHHZ2o/iArOOzZCe8NNiAwzXMi
+XMdnWmNUTFFazPP9nq6CF8tiFgsgIWkoQG8rZF+wyS3Gy3XB90IiRPh0+U6CT9wT
+Qvq/75y/4fhwaY0JtC00bDEBP4TiCOZ1uc+/kVWavEEibR+2H3rsDiuTEjQuOGol
+2EyaZgKFKQKBgQCRPGIWgB8ROk979uwUmZl4GpiKWIkcf+MQZm1PajZKRvE0igZb
+OcuKn/5OCyF9APEQ19MdR8TMB/3Tna0bXPuS+P5uy4C2zRBtyqsnqx0Pp+uruUdi
+L5/up4U+eeL5iFZGpBkcSeyuV4qcIbN0U7R/r6p6FA32hG63Sg/j7O6CiwKBgQC+
+ta3QDi/Y9GpeXTGXzuQ8l0L/MrIWeFc+/sf0AOg5ULEr9d7iEnPYsvSZ/iTTFtsm
+o93QHReiDJvRyKPX1i5M7/YNIrJIXlqzLLl6Wss2CuGcz8XjxcQtZ8WxTrpTB50f
+n0S7hzC/Q1W+4HpXJWpNlc1B8sVo78OU9a9DTnb28QKBgQC83ykwrRNfkTGOZIv1
+zEe5iUWlk2D08XW1cSYcAD4+x7Xa04G18S9HDaN/iMPwzxpm7eC2yDFyfBG8SSwt
+ibTYKrTEHMMT/2WWzW2SfVYvAD1zIDPqrfnwzXv4NlEngQ/eYe56OpYBKPkGEOVD
+NFYR0xrJ3WNHjWn+Ydt3O8q/tg==
+-----END PRIVATE KEY-----
+SIGNED cNAME:
+b'\x1e\xfe\xc6C\x00\x14\xac!\xb6\x18n&\x86b_\xbd[\xa0\x1bK\x9e\xb3\x1e\xc5\x89\xbe\xd7\xb9Ndq\xee\x1f\x8a\x02\xd6z\xcf\xc9\x13\x95\x87\xa5P\xfd\xa6=7\x88\xd7n\xd3\xce\xa9\x8f&\xd0\x92\xcaU\x81\xed\xac,\xf8k\x8b\xba">UXN\xb4\xfe3\x87\xb8eS\xca\x8c\'\xa3\xa5\x1d\x8c\x89\xa7kkH\x1a\xc3\xa1\xaa8J\xce\xdfW\xda\xa4]\x15W\xfeQ\xa6\xe3\xce!\xf0\x9dQ5\xfe,\n\x10\x83\xf1\xef\x82\x06S\x9aCh\xfa\xc3\xffl`4q.:K\\4s#\x11u\xdf\x18\xba\xa8\x95p\x0f\x9a\xc2P\xdaq\xfe\x98\xffH\xcerF\xf1\xcc\x97:(\xaa\xd1z\xc8k\x1b\x97\x13\nL.\xd3\x0f\xcci\x9b5\xd2\xe1\x9c\xa8\xdc\xd6;\xe2\xf0\xda\x99\xd9\xc5J\x14\xdd\x17\x19\x0c\x85I\xaf\xc9:\x1e\x88\xe9"\x86\x1bX\xb4$\x8c\xa8B\x15\xc9\xce\xfa\xd0\x8a$\x88}{\x8a\xd3^\xc6\xea\x00>\xc1\x8f\xb3\xc2T\xe7\x15\x10x;\xea\xb2~\xe4\x82s\xbe'
+
+BRIDGE_5:
+ID: cc988498-ca9c-4117-a3f6-dd1983cfcdd5
+cNAME: isnLoJekOzoys2uGHAVTdbxCw
+LOCATION: Spain
+PUB_KEY:
+-----BEGIN RSA PUBLIC KEY-----
+MIIBCgKCAQEAnmyeSVfcNPFVzo9D077zwLK9AkCUcZYtTdTRC/9RFvQi63VGTc4D
+mr29h+hipmK3e/vT1+Zb1DYgxsyJS4cq1wOqSm+DlESfmtKMhR5rENu01KmjLsa8
+mofuSFXjJ1vmBIQ1ebiLEr20hNB/F+9V0VV9j+Wybs0nBvYmDxZsTWSdTiUNKk6h
+e0zg8y14PrHM4ZDtFYKOd1i40IPyTejYfAOc3pEqGQAK3c8DB2JjEqpKaODHZRx+
+Mle2EqosmPD7ZDevfn0RgMv1XGTCBq1N8izsOUj+LbYRHBbJiCzv+CAaQcU0lnqF
+TsFGG1uiIg7sGHhUX/6XIq3UPMnLiug6EwIDAQAB
+-----END RSA PUBLIC KEY-----
+PRIV_KEY:
+-----BEGIN PRIVATE KEY-----
+MIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCebJ5JV9w08VXO
+j0PTvvPAsr0CQJRxli1N1NEL/1EW9CLrdUZNzgOavb2H6GKmYrd7+9PX5lvUNiDG
+zIlLhyrXA6pKb4OURJ+a0oyFHmsQ27TUqaMuxryah+5IVeMnW+YEhDV5uIsSvbSE
+0H8X71XRVX2P5bJuzScG9iYPFmxNZJ1OJQ0qTqF7TODzLXg+sczhkO0Vgo53WLjQ
+g/JN6Nh8A5zekSoZAArdzwMHYmMSqkpo4MdlHH4yV7YSqiyY8PtkN69+fRGAy/Vc
+ZMIGrU3yLOw5SP4tthEcFsmILO/4IBpBxTSWeoVOwUYbW6IiDuwYeFRf/pcirdQ8
+ycuK6DoTAgMBAAECggEAAsPSAaFkmb5qSxzAORdYoas+zniUeuTIlsACmlpS8on9
+miWHkLtMHEceHm5u4hgbYO0h9e5JJwBC9S6tUmWTBgm1IdGeXFu15QrBYo0HnuxC
+elvOCvaRoPv70VOMxDa0eNq1Bjfn/MJsTa8asL4aNjz+HGT2FdNhjIyVhhu1z+Jr
+OXz/3MTBAZSvP7Ky7t7Ozm/tQB43Se3dYGxMIFz1gQSx7Ujc2Hkxm2DDmUGCyI2h
+Ie0to5M79CL7h070of0ZcH0AeWFP19S1AHjL/2d+BJBlBGogBx6OwVBe5IXTrEN2
+MahTx1BxCmQDeX8CYHrbbtO4yV1bLOCaNu75Dde9bQKBgQC7FjN+4qM/aiwBGDbW
+KgGZhbzUbtuFGXDXOy9C/0s36wvrGxoqBpKcgh+TXVs4avf7tNGmr3ySTy/8AbkR
+xzUPJGF70ilnziL2BAuvMM7jG7bdPGLihNTSNq5v6JvhCaT86ivbIohjh5De0xS1
+R7Md/Vp17I6cynrNbjplgZlCFwKBgQDYx5+FXbWIFI4MqHcI8s/OBTLmWsr0IzmU
+Azf6qGgBv0kzwmfxSLvQkIqcRYeVGS81R/Vk24feLYd6Cs23Jdf9CSWAI7VZK8Xt
+TQ6uYDPtFGsvbLxaU4VUzmRmdRWjlAJZSq9xTBVjoy6XJNvAiiqwt+ldeUiwbR3e
+VzlYCwNxZQKBgC7L8duWQzFUlGc9sFHHthi5vC8C/8P+RhyAQGUoyJ7XG2cWo2fJ
+txiQ7+cDnhKxpw/9/ccM9EMArccCg1FwG9SKzBuVySefB120S1vqAIYMY6RZO37f
+rQBcDywM6hjTOcLNrGSm8ai7u0ARWoexxJsGyX7fyhhsCWWjYdYMIdLHAoGAbIEG
+jHeKHFHFg/pykk0OzFz3zCsXuLlE4Zv20gSnAnDfUAP3iOLR9yPR7UQ0B+HyKiYZ
+YuErEX8Sd3ie3RQZFvMUDR5ScA6j5BIUzh0jAICe4b74S/HQI9GmmU3zhcvYnR7v
+z7K4ZgXQlSCCyc2ebpOvP/Ur9/q134sjDbl9gK0CgYB6K0oK/5P6avlyYLb8Xo27
+oEKvzXwMsv+iLsxLr3gKaQ/4JcjjIwqyrEQGi00TKZ/u7xfxDKNimgjW/5+sv938
+pdCquYm8qz8S3fVuESOa8M8u0g50TZhQhoOaXr6TZ+dycvBnL/bH3Ag07DB6XeWF
+VBS3Llk/B2+l13kF+6ypiQ==
+-----END PRIVATE KEY-----
+SIGNED cNAME:
+b"\x0b\xd3\x05l\x8e\xac\xee\xdc\xcb\x89\x91B\xd1\xbc\x80\x96\xc8\x05\x05\xdcs\r!\xae\xa9\xb5R\xd7\x02lq\xa0\xe0\x1fW\xb6W\x9c\x9f\x06\x1f|\xa6bch\x06>l\xdb\xcc\xf3\xc9\xee\x0f\x8c\xffJ\xce-\x8e\x18\x18,\xb8\xe9\xfc\xaf%Z\x10\xf6\x05\xa5\x01*@'9\xa9\x14\xf6\x9b\xf1\x86\xd4\xd9vs\x16t\x98\xca;\xe6\x1f\xf7p\xbd\xca\x127\xfe\x89T\xc0\x082\x1d3\x0c\xbe,\xdc\xb6\x84-\xff\xb0\xee\x8c/\xd3\xa0\x8d\xdf\x83$\x94B\\\xf5\x89\x8e\xfe\xe8\xe8\xa5r||\x9d\x9c>\x8c\x0e\xfchPQ0\xcc\xb5\xfcV\xd8?\xd2\x7f\x06\x7f\xfc<\xfe4,\xdf,G:8A\xc0\xfd\xc7S\x86\xec\xa4n\xb9w\xac\xf2,f8\xcd\xfc\x85\x7fYS\xd01\x9f\x80/\x8d\xbe\x877\x17<D\xd9C\xad\x17\xf6\x80\xff\xad\x15\xee\xfdb\x1ai\x03\xcex\x818\xdc\xd8^\xca(Z\xa7\x8d!k5<\x18\xe62\x0b\xe6\x98\xe7\xf7\xc7\x90\xad{\xfa\xcc\x96\xc6\xdc\x14ja"
+
+BRIDGE_6:
+ID: ec3ea3f4-9dd1-4b11-a762-14ac8dff577a
+cNAME: 0H4U5p7ByEnlq7tZNhRNX6d1L
+LOCATION: Honduras
+PUB_KEY:
+-----BEGIN RSA PUBLIC KEY-----
+MIIBCgKCAQEAs4jh3L4NTeh0A+La7GdOD6y1CTdzg+IM1EfMqb6xYkjBgPTO6jhx
+DyM33xUDOPHHwJQyxGN8DKRdLCZyht8QshjtLIeCyIw1wb+DBNNHHaREnF2Eowus
+XtvaW7IPOFsWfSFc0g8eB4i8s+X0cWQEZSjm3RELXlnsyJFXG10QV5ZDa9A3G/HT
+mRI+esXC7xSDtS7sVGXeAQ9ewkk/3X8gDwKtpaukd6fe27eTrZXe6uyxYBTCLDFo
+4uf9+b+zgtfu4Xs/X16qBhCG7zF9Pwj+HO9voFCRKRzFifQxMzBVhNaM8ewQIp7Y
+SoLXA1Ts/uTdekkKJ1pNARLud5fxA3uYbwIDAQAB
+-----END RSA PUBLIC KEY-----
+PRIV_KEY:
+-----BEGIN PRIVATE KEY-----
+MIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCziOHcvg1N6HQD
+4trsZ04PrLUJN3OD4gzUR8ypvrFiSMGA9M7qOHEPIzffFQM48cfAlDLEY3wMpF0s
+JnKG3xCyGO0sh4LIjDXBv4ME00cdpEScXYSjC6xe29pbsg84WxZ9IVzSDx4HiLyz
+5fRxZARlKObdEQteWezIkVcbXRBXlkNr0Dcb8dOZEj56xcLvFIO1LuxUZd4BD17C
+ST/dfyAPAq2lq6R3p97bt5Otld7q7LFgFMIsMWji5/35v7OC1+7hez9fXqoGEIbv
+MX0/CP4c72+gUJEpHMWJ9DEzMFWE1ozx7BAinthKgtcDVOz+5N16SQonWk0BEu53
+l/EDe5hvAgMBAAECggEAE6upN4LZOVKBN5XI78Ln0h7VnQNm1CnVxwJw4Z5DmCWp
+keQAsbfqZ0KwEfCe8EPJY4e5Qjw2MLpnfPlfbfiNvz2s6saUJT37e9VsWQB/F7fS
+TqGOcUDLq38CHy7UrROJ1L7tiRRf8WphZoKI9E2Fj8HZ/Zmq+bT3lQgbl6NsMXRV
+oOudXEfYwD/4B6MnMXRbx3WAU743JdyPQwYDeqTZouuMbEM2grW/sTLBatZOYibj
+OC2sVJUFaF+5+MUOioHtGUNbDmYy/WH1u7eFrZeSxFUO5CVFyDTMNTjjPeN97t9/
+7PmZKDGbLaqoU8JGlSs+Sxsv3IDBNRbhmbw4/lYTDQKBgQDoM0cgo/D+k0i+Bloa
+xJTazMsxIMUe48TvoIFbwsChH5IK9yB0tISffGd5HzzT/+uEpj+vZc3cuk3c2p57
+EoOPfD/Npj/jpPcEYbOWTb33K2rhs/ksUq1EhNA17j9lmhG4FdyGMCAlsspUkux5
+loPWbEIPCJWRjoiUvCIXV1F53QKBgQDF77UXHT5QJMvvGOmxcxWj0OcUzfbizKf2
+iSTxZafB859c+IjptWcCBFSgn10d8Jwx1vIzZ8YATJH9BiL5Yr9Or4hn38IMOAe7
+tu2ju/dkbTgSmGSENlY/XbJuSn6bcbbqoEoA7P6/KwqHBfuXvTy8LELObGomiLsP
+9sGRNR6kuwKBgQCYM7R10sBPPp+531QEo8KmwQKXi1FqdAZMxDrGuRunAZirE130
+4bblC5iPrkgi9mecpZStFeAgxQXwtGSZa4NM9DamSEksoJ9CAgDDjuXsNEt08pFr
+2i208hHAqBBqOtlOfxXz52vLCizRzxSuhliYnpGWZRwVMwaX59G41wWTCQKBgQDD
+T9EFSdnfAzAochDHBKRpzQz4PnRLP17Nqm5FtOVgQKEUADo5QsKt/s/y3s3naTD3
+DP5ZMyDx0pyLa66/Hm1fm12iAe1cWT1oQQ0k76kh85PM5Yrp2yQnyrDym5dqkz7H
+LftYBoMo57OvoHuuMxDnLVWOkvP7qhfLnNVMD3p5WQKBgBDpw7DgyZ5AKdCbDO9M
+9rTxm+hZ3cO5yccvcnyIp1SGlgodTG21elQZUXQcUov4mfDD+/qe9lDMe6KBYSPG
+LxuS42NXgGBhpysR7uWa8g9SST5mJvDnbvBTLyriz02i9B1/nYLuI+DFhe2/qlKY
+gxLE++jZ1UGEniiDpdJFkmKe
+-----END PRIVATE KEY-----
+SIGNED cNAME:
+b"q'\\\xbf\xc8$<\x97:<\xf0\xb7@\xdd\xa2r\xe9\xc6\xcan\xc9\xc7\x11\x1d8\xb96\x08E\x14\xd3\x96\x81u\xaaR\x96\x89\xfd\x0c\xbf\x12\x16\xa4\xe3\xd9zj\xb3\xed\x10i\xd5G\xe7\xca\x8bRt<7\x8c\x9e9>\xb7\xfc\xa3\xd1\x89\xcf\xe1\x85\xd2C\x1eq\xb0&\x94b\x11WZ\xbegh\x0fB\x06\xda\x01w\xf5\xe5\xbf8\xf4|\xa5U\x92\x02b\xed\xddX\xb2Z\x87<\x18#\x86\xd73\xad\x06TKV\x99x\xc2=a\x98{\x17\xa0\xf7n\x92\xf5t\xc1\x8eCM\x96\xb3\xabB\x1f\xbd\xcd\x07Tb\xf2n\x9c\xb2\xb6\x18Q?\xbe~\xfb?\x1c\xef\xdc\xf1\xd20\xd6*\xb7\xaf(P\xefQ\xdc\xf6F\x0b#Iz&\xd2\x83r\xd0\xe1\xc6\xa3_\xd3\xf2k5\x0b\xce\x0e\xe1\x1d\xc5\xcdO\xb5\xe8w\x0c\xa2\x9ff\x0b\x85\x12\xd3\xe8\xa8\xd96\xd4\xa9d \xe3F\x00=\xf7(\x18\xc3gL\x04\xfe\x91\x9f6T\x8d\x03\xbb\xda-\x93\xfa\xe2g\x0b7y\xac<c\xff\x88\x01"
+
+BRIDGE_7:
+ID: a8514e9f-fa45-41b1-b633-d1936152b427
+cNAME: MeH1ansUnZ2gXJz6536ysUyJ4
+LOCATION: Puerto Rico
+PUB_KEY:
+-----BEGIN RSA PUBLIC KEY-----
+MIIBCgKCAQEA0uoTgGZyht2NvfvnN6QvJ2657J37xkO92dyeHynJY3Zq+Y9ucejL
+1i1eI2KEeGyQx9th8IR0dt8iejgEyVdd5Hw25OT00noU9a7CYy0IIwS0GlLy3Eet
+NfzNAG50pi//UDJS6rfCSxa4nBxfKCokp00m+OaGkjsiv8Ci3wBzv4u2dF0k8Gc0
+Cw01AptnJSO7t5NwRvTe4FAhp9oubjZWeQ6oTy1L8UBjnaOxs+pXGzirUJFqNpz1
+YyVkyt9VOD4PhsGlEWPGorg3mCaeLUaoxNpbdOoeyqmCNjnHXlhm5KVjTe5AC1zh
+e/8ECiJ0ZRCmKD4ZpaLa7h/fHnMRRZjA0QIDAQAB
+-----END RSA PUBLIC KEY-----
+PRIV_KEY:
+-----BEGIN PRIVATE KEY-----
+MIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDS6hOAZnKG3Y29
+++c3pC8nbrnsnfvGQ73Z3J4fKcljdmr5j25x6MvWLV4jYoR4bJDH22HwhHR23yJ6
+OATJV13kfDbk5PTSehT1rsJjLQgjBLQaUvLcR601/M0AbnSmL/9QMlLqt8JLFric
+HF8oKiSnTSb45oaSOyK/wKLfAHO/i7Z0XSTwZzQLDTUCm2clI7u3k3BG9N7gUCGn
+2i5uNlZ5DqhPLUvxQGOdo7Gz6lcbOKtQkWo2nPVjJWTK31U4Pg+GwaURY8aiuDeY
+Jp4tRqjE2lt06h7KqYI2OcdeWGbkpWNN7kALXOF7/wQKInRlEKYoPhmlotruH98e
+cxFFmMDRAgMBAAECggEADJrL2dB1j3kJ5aTabX04yrPftWP/JhsKC203f3AHPrQW
+4k13uaPCm80IC1gRx+MgF2uVW7MExU5iQHjc014O6M7iFnWW6oW8fy7Ho/bu3a3k
+KA8VP8QiVj/CjiArxTtI2DV7tlaPTF7CH2VELBGxsVRna/hV6kMRuXE1Ipvjrvqa
+Hfv113qSg1CiqPh7nRPZF9Y7eBO/fjRkufmMmEP/914H+3U7tejT2sBGHuJkoBuW
+wIf2Lw6plFRVbyEXHUSVbWzFcnCCcfYXzkFHiTU6S0RvNIUgrf95+uOxw43edIp8
+EsSexBZq0mZIh08GuMmt5aPZrmwurq8swK8J9DRngQKBgQDv6OhoGAnuwu4uQZvg
+OhQYtA5GXBz86cFxLW1OXr8Y4Wf8asNn1DroCQjyBcNRP7jnxa6VTjnYYkuYa2qo
+ewvv9Sl10OetFL6Dk3NBMJ/tvgunMJRsa9elSIjbwJ7fVSCP43fINyrq9TeQaRku
+r1G6ugYyLD1xpo6MMhJ+Kbv4wQKBgQDhD1X+/NvHtBLnPgbullI88krQ48+RosUs
+ZckSkKHNBcMpty9jjXNOlvUSVkertuYCCZfrpPvr8PLptv+5ux2iwjgifhEw2Zr5
+wwWvOuAaL7ewsxHQIn8VPSCwL3lkXm1tQy8EPxVZLbEDN08X/Bk42QdkeFngR9Be
+vRnmldA8EQKBgQCCO3StzR7XNYoGIidzuRNftZ5qI2a5BEu2HGrRuC0UXIgORgZ9
+PoAbpYvtlaNJX8YISw9SjXxpMjLHMshbXTBFulgfVJ/vHOuukURnhvXKIPhCceSg
+VophdtaUNCQKKDPc6CYF0azCjwryoZrB9Pnw2zqx0cIpB7kp8aSISC96AQKBgQDX
+ud6Baxi0BNy1wRPd8ELl3o1uS190RqRfGTWyUOZ24lYfD1MiRrzHERXaPM+4Pbmd
+LFrt6hf8IdqFwf6/picTEr3B+js6KutNCu3Q+EtFboXRnuOtMNPFpPFHUEo4tfaH
+7AUOOfWZpJ1u6r4qzF/UyNs4J9Bmlg+aMAK6rtGKMQKBgAZ9U1aOPcNBab6W9l/D
+zhacbbp3EauqbGJWiDvEYITCAzO1bgkNhIDDePrBF+aoHcvUMtVOaOjK8ApfXR0o
+G0KZTH3G8p9nw0m0sLLV6pT6tDBr0oMHSsxUVLZNkGxUgRQ6v+shM9TzMbu8pj5W
+fxO5hOY4jwSqNMse8F9f1FzW
+-----END PRIVATE KEY-----
+SIGNED cNAME:
+b'\x92\x0b\xbe \t,\xf6\xa4F\x8a\xdc\xf0\xd6/\xad\xf8\xbe\xaf\xa6\xfbP`\x8c\xbfE@\xfb\xc4\xf1\xac\xc6\x8dN8\xff\xbd\x19\xd2\xde:\xc9\xf2s6t\x91\xc5\x0f\xf8\x17\x97J8\x10\xc25\x99D\xe5\xa6\x9f\xdc\x9e\x90`\x9af\xa9Gxe\xfdYL\xdf"H\xd1>\xef5_\x85\x96\x01\xafv\x88\xdfB\x03\x04\x88\x8b1\xbd}#|\xb73ev\x1a\xcb<Z6\x8d~\xd9\xbd\x90k\x05.\x1bHRF\xb7\x1b\x04\x1ey\xbd(\x12\x89+c\xbcs\x81\xd3\xdc\x9f\tzN?\x89\x00\xb5\x9f\x0f\xe1\x96x*>s\x189c\xfd\xf0\xa2\xa7\x86:\xd2\xea;\xc1z\xbb\x01\xe3J\xd2\xda\x94\xd3\xf1\x1a\xe3s&\xac1\xfc(\xcc\x17\x1c\x83\x0c\x91\xf2\xfd#\x1c\x9a\xe3\xd9\xa8\r\xca\xbb]\xc2j\xbf\x8a\xfa$\xa6\xb9\xc7\xa9T\xa1\xe1P\x0e.\x06&\x87\x80K\xb4\x96\xfc\xf9a\xb8;\xfd^\xdb!\x91\x9b\x9cy\xfb\xad\x93\xd0\xb8,}\x16\x8c6\x07\x16\xf8w\x0e\x1b\xfb\xcd`'
+
+BRIDGE_8:
+ID: a68ef596-d317-417a-a659-60491d05942a
+cNAME: IDhblVjRsZxohKmYwQop1pokV
+LOCATION: Isle of Man
+PUB_KEY:
+-----BEGIN RSA PUBLIC KEY-----
+MIIBCgKCAQEAxzXL28mdRJLR/DdYeD//Hgms4r5FUw0F44WQqoO6o22dg7Yp6CeR
+MeuV1ILCS/uveSeQ9Ko/OGOvj3zzEjnxGc52r0t8qFLG47xwmnZXF+xGO5at44pn
+FOFIpEbIaArBG0EKShv6ZAcQMRm4u9lx0anN9yDovAaODVNXy3xO6kSC72KqHBM1
+5rMzNhpNR6QFaBXFmP6Jwtjey4cRInXx7m6ph94Fx1tzYlf1X5KxN7264dqdqKxT
+XE5/gVBAzuaymmq8PsCopHvXNYP01GKI2GVn3Hf5dmF5cxWOZnkGZoRRM9iK0YpN
+8AjzpTA6ttXSZ72V5m0VJdzuFXF2aP/NVwIDAQAB
+-----END RSA PUBLIC KEY-----
+PRIV_KEY:
+-----BEGIN PRIVATE KEY-----
+MIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDHNcvbyZ1EktH8
+N1h4P/8eCazivkVTDQXjhZCqg7qjbZ2DtinoJ5Ex65XUgsJL+695J5D0qj84Y6+P
+fPMSOfEZznavS3yoUsbjvHCadlcX7EY7lq3jimcU4UikRshoCsEbQQpKG/pkBxAx
+Gbi72XHRqc33IOi8Bo4NU1fLfE7qRILvYqocEzXmszM2Gk1HpAVoFcWY/onC2N7L
+hxEidfHubqmH3gXHW3NiV/VfkrE3vbrh2p2orFNcTn+BUEDO5rKaarw+wKike9c1
+g/TUYojYZWfcd/l2YXlzFY5meQZmhFEz2IrRik3wCPOlMDq21dJnvZXmbRUl3O4V
+cXZo/81XAgMBAAECggEADjTGUB4vAPAXcw0SjUDDFYYX6Vn4R6JRUTBgaK7ymF6X
+MdVdZH9Hc2/n3dSVVow6r0EkrTRjqpNkg0ikOboeeRPbX650BuztEg1WJy2/q3N5
+O4NuhlODll5nRI/OEUO/3nNJvVwEnZPpxUnR5FOImMZE0eLSHHAhoTTYUsKPcVVH
+jkJsbLZ2lmMYZOqdEioAwhH80sNVHCUWmyQfYQCPKsatleOjmKxFL3l1cL2oRdWO
+AhMbBV4qJ7i/bd8YUVv1dFbVQDNuFGtt/7k31ussW26dSs3d0XFHRROP8jA8pAe2
+osv6xRKirxm/g/dM62Py9/qKhV7x7WDLItfSN7SKgQKBgQDT+BnowAB6AgHz7+30
+WBYPeFqg0cC4EWl1oIdb6wYtqkNZklIeZFIhwbhk4Y4nWPxOeQ9rRPRt0Kt1vTVZ
+qcyDogVc6wfb681vuR1vD5tbjIg7O7wvmqJjQHKzH1aev8cc3PsAZjrrpXhprRvW
+NQzxj07gyRcy61LZF25+H5k1jwKBgQDwlzVqNDapT4XBmJEGpFJK0B4QRd/f62vB
+Ja22g2zHEDp0V9AYUUCmby4mgE1QGT5dWvkaycFjVrfEmugrkV4rn6S8zjT+bBZ6
+J/UNFEdkUuNFAIcVATf+GVP3nx28hGh8EU9uqrqrjUecD4ty0gQ2saf5vhOqVvYd
+jqIGP2PXuQKBgQDSBnpljBjsyyB0O79i5AS3v2DNCAgUWexMiIqWIQE2LgYdskV7
+p5tZp0C1dGgNxLX6aylD+EbYqHG7b4Z1GTFzHA6ESry2w6YClUD80lH1HAG/7yg/
+YtCT1z/PC7YgBZWcm7h4ZNLsuj/dNZDnZhk1H/Hf+F/sLA8i23y3q0d7MQKBgGIv
+s5LmQDCUzaeWlgk54oO5r6tAeP8vWsh2khBcTnZm/xQgCkMCVfoWgaUg02yPAM6k
+o+j00cGy0EiiV4IAT4hKHLcZCLOUdQ/hYra1wfUFhs7QSlCeMLW4rHXwL/iRqPqJ
+LfuiHZCJleHwzh5L64BOvJjFo8zutH6XiTQ3ho2xAoGBAIn6G7PYWVNwEw0+D4eX
+b8erMR9wPW0wyshSP1cSeh+4imlCXM5T9WQGh1zuJCZULqJXifE2nnPVqxkFrlGG
+ksmR+LnhTx+9H+YhQ1FP44UJq71VF7PvljvarTuIfYvHWU8+d0YV+HazAFDvtFNv
+CFqujfggZVKs1+2upmuficoS
+-----END PRIVATE KEY-----
+SIGNED cNAME:
+b"\x04\x19\x16\x88Foy'\xf4\x05m\x83\xbc\xc8)\x81c\xd3\xde\x10I\x06\x19\x9d\x91R\x17\xb1\xb6\x8a@Z8\xa0C\xa2\x0bvwt\xb9\xdc\xff\xca\x83:\r\xb8\xa7Q \x7f\xb8\xa0\xf1\xa2\x16cE\x05@\xf4\xaaR\xefMq\xeca\xceWU\xdb\xf4\xac4=it\t\xd0+\xcc\x84\x81\x98\xad\xca\xb7\xda\x0bw9\xac\x03\xcb\xb0\xef\ny\xc7l\xf5\x80\xf8p\xde#\x14\xbdRr_#\xe8\x1ca'c.J\x1a\xc2D\x85??\x99\x1f\xf1SR\x90\xea\xde\xef\xa7L\xda\x13H\xbc%l(;\xc2&&\xc615\xd7\\\x13\xd6c+W\xab\x99G\xc1\xfaP5\xab\xc3\x14z\xf2\x7f\xc5\xf1\x01O<\x1f!N\xc7\xe2\xf1\xeedC\xbf5\xaa7\x1b\xbb-W4`\xab\xea\xc9\xe5<p\rB\x82\xe6\xa8\x9d\xe3~\x8az\xd7\xe3\xb6\xcb\x8d\x1a'\xacJ\xe4\xb7\xcc\xb4\xbf:\xc1\x1d\x16@\xdfn\xb3T<\xe9\xb2=\xb3PL\xcb5\xb4\x90|\xf0\xf8\x16V\xa9\xdb\xe6\x9d\x83"
+
+BRIDGE_9:
+ID: ed877352-f1e3-4a2d-80f2-66006a0a3e31
+cNAME: MlJhX0aKdPDWz9pb8OvM8ovyN
+LOCATION: Bulgaria
+PUB_KEY:
+-----BEGIN RSA PUBLIC KEY-----
+MIIBCgKCAQEA2R0rJFxBmJOJXu4zxrRggfC+woES3vAtL3N0RD5m4u/PZh5ZU0QY
+s5UDl0W5VRG3rV6z5l6A708g7dzAVzS1worbM2QAreW13+VxxjOWq5ZGFDl/OUiT
+LK4/c1b9eD/xNHDpziEe8mHI/MKCHmE/cIehCwOT2sZXSRMkwPwjgCh0OVNpWfZq
+5pmseyNKk/XTZaEJMwZr1zW/6KR0fNfGxFtxcl4EEbWHeUAesXP3qovZodz2Ia6m
+S+YhS9NAjQnweZjfMIlUcNT3BA9ZeeJRby3oQIhiABvgzIf567kR+ZH7yADkGIv8
+UW8t1IJYgpdLDEqqLLzwhtZo+ryADSK7XQIDAQAB
+-----END RSA PUBLIC KEY-----
+PRIV_KEY:
+-----BEGIN PRIVATE KEY-----
+MIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDZHSskXEGYk4le
+7jPGtGCB8L7CgRLe8C0vc3REPmbi789mHllTRBizlQOXRblVEbetXrPmXoDvTyDt
+3MBXNLXCitszZACt5bXf5XHGM5arlkYUOX85SJMsrj9zVv14P/E0cOnOIR7yYcj8
+woIeYT9wh6ELA5PaxldJEyTA/COAKHQ5U2lZ9mrmmax7I0qT9dNloQkzBmvXNb/o
+pHR818bEW3FyXgQRtYd5QB6xc/eqi9mh3PYhrqZL5iFL00CNCfB5mN8wiVRw1PcE
+D1l54lFvLehAiGIAG+DMh/nruRH5kfvIAOQYi/xRby3UgliCl0sMSqosvPCG1mj6
+vIANIrtdAgMBAAECggEAC+Dn3PPPNiUCsKO64XXTWEiiDZifCuN8SJeG41TzfBo/
+idUo141nBiw/WtkA7GgtWUCDlAI61UNj1QYgeXHA0zjI1WVbRChiBjK5DtPNVbkn
+2TA47bSZMl1pZOR76a0ittb9DVhyjc0bzSudj6i/N82z2egDZuADI1RdmZ4x5jw2
+h2rn94xwoC2J5OgyErPOo0S+br+By+hGMwsyCWG2Sg+d3pi/j+hYsrKSn59Tt7Tm
+Gf44xQ+pz189wpOZ/Koeu0SCxYquJ/2WZY+yAlZEge3zjbCSGKqOuCTOTYNXhR/j
+4xu1kTWe8J3f3hsVJwwNxFA7VpKgSg8ow6ElFoeIYQKBgQD6d0ugYk/OjosGTKqN
+VGwU9kEy4MojMSwbpwc1bxkemEae2W7cCQ6U8058KDQPjGTXMh8dqkyHMsowC0mV
+Qcr03dNH+8Tx3BTBC14MNXQ0LI9hrA+NASTCcmm5HCkoszWGKhgKNxpqjAwdoD+K
+moA6jF3UtYXbE/uy0RT/IzTfnwKBgQDd6TmFZMXmCdLBptcOQx3PhaMdPXpGO/6G
+UYHsl5Y9x1yRJ3vL6e31Rqcd3fycyrePBjkFlUgoE8d/zS1/oyRaJyKafJMACMZE
+I+Ux7zD3jHfAWer3v83PORTEs1fOKvyolHT4B7aOeEcKjQoGh3nDIvd7iLlkgdvE
+PjHKY9STgwKBgGxsS+6n4EhYaFJXydTYYNlKKLsvmBFX7fIigfpdl5Ao9xk4osbZ
+nNhZ4vXYKYE5k0Wcyt96oxo7oE7f9ACKtKL/i8CzenQAg3N1ykaatS0IxSDQ7QJr
+JlCOWrnpOOAHg/oKKtHxPJw299+zSQ5lB3FQ5iV4VvOZWPH1lJNF2FOdAoGBAIbr
+lCN8X647br561+o9+FQCJmhSxpMJSvkTeXEFwT0Shz9hyCz0r88fA+Bu5XXW8r+s
+wuKYHuTvEa6sautdn26IuMtAzoeIzjMDuAgiK5129CApC2lSXqmNRQlLGSmqjS9a
+A7wBxIberiLGGcBagjeYfOvI9x8arSmlvtQU2lxNAoGAE4ELz+Juu5r1YuG0uWcs
+OVGuhK4q+RXaChH0Sz3s1c5Ua8V8PNmDURKn2fLkohqrDutZLaAScPt8eqqFQEwk
+mWdgsjFGyMMP8BxthkvLkYHERAsEwy6elNiKN015FUVqcO2wZLdAptvUmJ2D0x0y
+eOFEvS5xlGvoerTCqWV3+sQ=
+-----END PRIVATE KEY-----
+SIGNED cNAME:
+b"\xbeP\x1a\xa5T\x9d\x8e\x96\x97p\xa1\x90[v\xf3\xf7\x92\xeeW^M\x97\xc36 \xc9\x1dJ!\x05.f\xd3\x17%\x9c\xee\xed\x8f\xb2\x94['Y\x8a\xaa\xee\xd3\x90:z\xc9\xa7\xc06\xf9\x16\x00k\x86fH\x92\x1e\xa76v\x89[7u\xe2}\x1a\x96jk\x94\x8b\x9f\xf0\xf8\xc8\x04\xe7\xbd\x18\xd3\xb0\x16\xbd\x91!\xb8\x99\xe1@\xa6\x92#\x02\xb7\xd4~\xcaJ\x06\x1aO{T@\xa36Z\xa0[\xafF\x93\x0e(\xf9\xc3\xd9\xcclU\xc9\x0b<(\x98iZ\xde\xedk\xec\x82\xeb\xce09[\n\x19\xa8|f6w\xe1\n\xf7/#3\x1f\xf4\xe9\xfaC\xdfZqI\x81T\x8a\x0bR\x14\xe14\x98\xac$\x92\xedGI/\x9f\x16\xb4\xb6\xe1\xb2\xd7\xa5\x9d\xa0\xf9'Y\t\xd2\x96a\xd18\xad>,C\xcd\xcd\x00\xb6\xb0Hq\xc5\x11X\x1d\xf0sZ\xfcA\x94\xfb\x9aG\x90s\x01(\xa9\xf8d\x05\xb4\xa9\x7f]\xea\xb3\xebt\x89\xb2\xda\x1a\x1c\x94%\xe8`Z\x0e\xc7\xf0?"
+
+BRIDGE_10:
+ID: 15b3cda3-dd74-4fdf-b7a2-aa40141b68e3
+cNAME: WDN91P1TWVaU8SjZM0Y2ldfmM
+LOCATION: Holy See (Vatican City State)
+PUB_KEY:
+-----BEGIN RSA PUBLIC KEY-----
+MIIBCgKCAQEAsE6aSZW09khOTHCtCARdM+LCzQvK64HJg42lnRdIdeDWV8HQQFCw
+HUYOC9BVgl7oV4/LOLw6BucJLISwS0DmAuSMQ/3Zp9qib8Lp7Ny4/mpp5DtX8FJN
+4EmKWQeJy25RO9C8KAoD6Cqq2op8zOFvSoeykgifYZNqsNgLdMLFTlxtS5clKduq
++EEltSGaqHQI3dC3khy605sOA5iCSv0AM8qNX0IUctKd3gZPLe68WDShEdrdGTIB
+5PVMWuZZ3W3Jim8kZEMkcfD2k3cszBFWc5i25/LaJpYTjGeExilXxTGFCB0UUQxp
+gAQpIVglhWMzdLPk7uite5xuCYMQ/fu7PQIDAQAB
+-----END RSA PUBLIC KEY-----
+PRIV_KEY:
+-----BEGIN PRIVATE KEY-----
+MIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCwTppJlbT2SE5M
+cK0IBF0z4sLNC8rrgcmDjaWdF0h14NZXwdBAULAdRg4L0FWCXuhXj8s4vDoG5wks
+hLBLQOYC5IxD/dmn2qJvwuns3Lj+amnkO1fwUk3gSYpZB4nLblE70LwoCgPoKqra
+inzM4W9Kh7KSCJ9hk2qw2At0wsVOXG1LlyUp26r4QSW1IZqodAjd0LeSHLrTmw4D
+mIJK/QAzyo1fQhRy0p3eBk8t7rxYNKER2t0ZMgHk9Uxa5lndbcmKbyRkQyRx8PaT
+dyzMEVZzmLbn8tomlhOMZ4TGKVfFMYUIHRRRDGmABCkhWCWFYzN0s+Tu6K17nG4J
+gxD9+7s9AgMBAAECggEACH2AiJKhCEsrGhtC+ePb6Se+YclzmCvD3IXxt8LrRmHx
+cIBw2ugH0yEQhBkgRQr0/WJ7Utwdnz94/Z/WLYmOig0fhBaxaJfqwp8MTM/ESNwv
+BUKmVXhhL6/a7bajOByz5MGEjhkNXxzO5X9Nyz//8ALg4o9vvW8v8Bw3UQQgJEnS
+oV2eeECtzmd705W7oE4zzGB1mm3vfZalc2ni7IVsuJSn0ho92JtPJAj79/IYaA/y
+c2URxnW2ndODG1ZhCGJhTDqQcNf4zw3P6LyNhOW8aYwGAFFQfyxRKNkVnH1MQFwV
+iiVblaghLleh75ldLR+0l6WsH2NCrruEdxu27raDMQKBgQDm0TVv9bJkNjTzIEgW
+vlWZpNIFTYWV+mIJqH+ndMlIRjnqjrxYjImS3egpOgBb9xGdSNAx4Co+hqzYXy5L
+pd8TqPp6XcnUNknZ8uivAWkSo3IBhO4AdpDP9rAvDiKh0nSi417us8j/GaSv+ZRn
+pzL3M9IWjjlzmwrqXgZdK9fTWwKBgQDDiuiydMxQPeMibxXt2Rk8ErAEH1CUgHiw
+ekyUO7rrB7wUzRxJyFdW+kRvNKfwlvf7ZxfgeP2eF7PGKlIlB5W2UWf0sw3IXNwV
+SEQButGwkNiMzSxeWkv4Nx2qRo2gZjgGTWPOagWJrBDuWSO4JnjGhsgxQJzjaKnp
+/JZ+aYvnRwKBgFrMj/30JHIhlODToSg5RclEOk5VuahPMAPmohkI6ymgXqYz8knP
+N0tsOikFpSCIaAh8nVIRgezI4/PWNYsSvFeqkKZUgNIXbSPs17YIkwH/BBku5sWN
+3tfAjnxkTiFkffeaBD1YwkgAGXYUc1n3PyhZ3Vp8JoOgyUF7LXu3hJajAoGAM2i7
+0N8gMCB1LMJj04p2NfL7z7mj58b28/7TT0180PnRmu5p94PyYm2dvFbtqDUosTHj
+dyKYGw5EN189BXs/AxXX7N9+SiUPv5CmQIYrRu5t4Ga4uX2n53QmGnQ+G+OD6zRB
+fy0kk5NnSCKrX2jN6/PXggtos+j6cwfzUPzSyVUCgYAUuezbnwmpALU756iVk+t4
+mVce0ToZfAEhOn2zujAjI9XgNqTfRqZ+G5yUwPHt6+JWVIPf/MY9IrqyBgv+HeOg
+Uhpyrg3Vz9SXl5Q7pkhTDiScQUNdHA7Nye1KohknviYGZFi4KX2d2SAL6Ii2chJj
+LVu4Rg4PfTFq9j4qXf4sJw==
+-----END PRIVATE KEY-----
+SIGNED cNAME:
+b"\x9d\xfe\x12\xcc\x14=\xa3ep\xbf\x82\xba\x10B\xf1\xb2\xcfj2\xd8\xb9'%\x86\x0e\x82W\xd6EiW`t\x1f\x91\xb0`\x0f`\x9ct(Ai\xb6\xb3\x1a+u\xfdy\x84\xde#Q\x0c\x14F\xa9\xc4e\xdb\x9a\xdb\xa0\x0e\xa86L\xc3\xf0\x97C\xef4\x01H\xf8Po\x9c\xbe\x0e\xfc\x8d\x1a\xc5+hm\nA\xcf`\xaa\xe6\xf6u*\xa3+\x8f#j\xb9J\xba+\xbd\x86\x9a\x1e\x05\xc5\xef\xfe\xa6\xe5\xc2\xa3x\x9b\xf3\x9d\xf9$\x1d\xda\xbdC\xc9{\xee\xcc\xde\xce3$\x1c\x99\xe2\x86\x19\xad\x96\xa5\x92\xe0co\xddVm\x14\x19\xc4J\x9dp\x8b\x1a\xe8y\x91\xce-.\xf0Z\xe2?\x10j'{\x87Z\xb0S\x0f\x02\xf5\x836\x8b\xa4\xd2\xd6\xcb\\(\x9b\xce\x86\x02_#\x8b\xb7=\x99\xdb\x82\x98\x91;\x89\x86[b\xb6\x15\xa8\x05\xca\xf3\xc0c\xc8(\\/\x157@\xe3\x03s/@qQB\xe8\xd5\\DA\xddR\xc6\x1d\r\x90r\x80\xca\xbe\xbc< \x8d\xb7\xf4\x1c\xbc"
+
