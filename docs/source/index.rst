@@ -5,8 +5,8 @@
 
 Cloak: Tor Pluggable Transport
 =====================================================
-TorCloak was designed to address the challenges posed by state-level adversaries seeking to block access to the Tor anonymity network. 
-Implemented as a new Tor pluggable transport, TorCloak offers robust resistance against sophisticated traffic analysis attacks, safeguarding 
+Cloak was designed to address the challenges posed by state-level adversaries seeking to block access to the Tor anonymity network. 
+Implemented as a new Tor pluggable transport, Cloak offers robust resistance against sophisticated traffic analysis attacks, safeguarding 
 user privacy and enabling anonymous communication.
 
 .. toctree::

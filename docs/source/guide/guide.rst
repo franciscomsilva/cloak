@@ -15,9 +15,31 @@ System Requirements
 Our setup is designed to run 2 virtual machines with **8 vCPUs and 8GB of RAM** each. However, **4 vCPUs and 8GB of RAM** per machine should be more than enough. Your host
 machine should be able to handle this.
 
+
+Supported Operating System 
+--------------------------
+Cloak is currently only supported by 64-bit Linux Distributions, such as Ubuntu or Debian. The minimum required Linux Kernel Version is 4.15.
+
+.. note::
+    Specifically, Cloak was developed and tested under Ubuntu Bionic 18.04.5 LTS (4.15.0-112-generic).
+
+Virtualization Requirements
+----------------------------
+
+Our setup requires Virtualization to be enabled on the host machine. Specific instructions on how to enable Virtualization can be found in the following links:
+
+**Linux:** `link <https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/5/html/virtualization/sect-virtualization-troubleshooting-enabling_intel_vt_and_amd_v_virtualization_hardware_extensions_in_bios>`_
+**Windows:** `link <https://support.microsoft.com/en-us/windows/enable-virtualization-on-windows-11-pcs-c5578302-6e43-4b4b-a449-8ced115f58e1>`_
+**MacOS:**  `link <https://kb.parallels.com/en/5653>`_
+
+.. note::
+    If you are running Cloak inside a Virtual Machine, you need to ensure Nested Virtualization is enabled. **We have not tested Cloak using this feature**.
+    However, you can find instructions on how to enable it here for `VMWare <https://communities.vmware.com/t5/Nested-Virtualization-Documents/Running-Nested-VMs/ta-p/2781466>`_ and `Virtualbox <https://docs.oracle.com/en/virtualization/virtualbox/6.0/admin/nested-virt.html>`_.
+
+
 Software Requirements
 ---------------------
-Our setup expects a x86 host machine with `Vagrant <https://www.vagrantup.com/>`_ and `Virtualbox <https://www.virtualbox.org/>`_ installed.
+Our setup expects a host machine with `Vagrant <https://developer.hashicorp.com/vagrant/docs/installation>`_ and `Virtualbox <https://www.geeksforgeeks.org/how-to-install-virtualbox-in-linux/>`_ installed.
 
 
 Configuring Vagrant
@@ -37,7 +59,7 @@ Starting the Virtual Machines
 
 .. note::
     SHA256 Checksum Hash of **cloak_test_setup.tar.gz**: 
-    ``d6e82850282eabe16fc8f4678a67c9ada5e6e745f80fc13656782752cb1b351a``
+    ``9627c2b915a5cd5425900466a286513374f741c02a9debff322fec1bc4b8ca8a``
 
 **2.** Extract the file to your working directory using: 
 
@@ -72,7 +94,7 @@ Then use the following commands to connect to them:
 .. code-block:: console
 
     vagrant ssh cloakclient
-    vagrant ssh cloabridge
+    vagrant ssh cloakbridge
 
 Open your Virtualbox GUI and open each VM's Graphical Environment. This will be necessary for future steps.
 
