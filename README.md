@@ -6,7 +6,7 @@ Cloak was designed to address the challenges posed by state-level adversaries se
 
 This repository is split into four main folders:
 
-- `docs`: Holds the current project documentation, deployed on the [project's website](https://syssec.dpss.inesc-id.pt/funding/cloak/docs/index.html.
+- `docs`: Holds the current project documentation, deployed on the [project's website](https://syssec.dpss.inesc-id.pt/funding/cloak/docs/index.html).
 
 - `machine_setup`: Holds a Vagrantfile that will create two virtual machines to reproduce our testing environment.
 
